@@ -1,3 +1,3 @@
 Integrantes:
 - Martín Ayala
-- Dennis Dias
+- Dennis Diaz
