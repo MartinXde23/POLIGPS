@@ -12,7 +12,7 @@ import {
   IonButton
 } from '@ionic/angular/standalone';
 import { Geolocation } from '@capacitor/geolocation';
-
+//ya porfavor
 @Component({
   selector: 'app-home',
   standalone: true,
